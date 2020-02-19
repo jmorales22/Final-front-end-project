@@ -1,0 +1,64 @@
+header {
+    background-image: url("../images/stars.jpeg");
+    color: red;
+}
+
+body {
+    background-color:#828385;
+}
+
+.about_header {
+    background-color: #6A7373;
+    color: white;
+    padding: 100px;
+    margin-bottom: 0px;
+    font-size: 4rem;
+}
+
+.lead {
+    border: solid;
+    border-color: lightgray;
+    background: lightgray;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.about_us {
+    background-color:#50C7C7;
+    padding: 50px;
+    color: white;
+    margin-top: 0px;
+    font-size: 26px;
+}
+
+.display-3 {
+    border: solid;
+    border-color: lightgray;
+    background: lightgray;
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+
+.card-img-top {
+    display: block;
+    object-fit: cover; 
+    height: 150px;
+    max-width: 100%;
+}
+
+.about {
+    text-align: center;
+}
+
+.about_button {
+    margin: 5px;
+    padding: 5px;
+    color: blue;
+}
+
+
+.card-text {
+    text-align: left;
+}
